@@ -90,4 +90,4 @@ mips32/
 - 单周期工程：`MIPS32/MIPS32.srcs/sources_1/imports/new/INSTMEM.v`
 - 流水线工程：`MIPS32ASSLINE/MIPS32ASSLINE.srcs/sources_1/imports/new/INSTMEM.v`
 
-修改这些 ROM 初始化内容后，重新运行行为仿真即可观察执行结
+修改这些 ROM 初始化内容后，重新运行行为仿真即可观察执行结果。
