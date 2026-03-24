@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+
+# Editors and tooling
+.vscode/
+*.swp
+*.swo
+
+# Local counters / stats
+.VSCodeCounter/
+
+# Xilinx / Vivado generated directories
+.Xil/
+*/.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# Xilinx / Vivado generated files
+*.jou
+*.log
+*.pb
+*.str
+*.wdf
+*.wdb
+*.wbt
+*.xdbg
+*.dcp
+*.vds
+*.rpt
+*.backup.jou
+
+# XSim temporary content
+xsim.dir/
+webtalk/
